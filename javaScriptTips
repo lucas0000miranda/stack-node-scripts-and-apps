@@ -1,0 +1,9 @@
+A interação do JavaScript com o HTML é tratada por meio de eventos que ocorrem quando o usuário ou o navegador manipula uma página.
+
+Quando a página é carregada, ela é chamada de evento
+
+Quando o usuário clica em um botão, esse clique também é um evento.
+
+Outros exemplos incluem eventos como pressionar qualquer tecla, fechar uma janela, redimensionar uma janela etc.
+
+Os eventos fazem parte do DOM (Document Object Model) Nível 3 e cada elemento HTML contém um conjunto de eventos que podem acionar o código JavaScript.
